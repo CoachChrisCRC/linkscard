@@ -1,3 +1,3 @@
 # Coach Chris LinkSite App
 
-https://coachchriscrc.github.io/app.
+https://coachchriscrc.github.io/app2
